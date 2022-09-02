@@ -1,4 +1,3 @@
-import React from "react";
 import { SectionI } from "./SectionI";
 import { SectionII } from "./SectionII";
 import { SectionIII } from "./SectionIII";
